@@ -1,2 +1,2 @@
-echo "yo"
+echo "lol"
 
